@@ -25,3 +25,6 @@ E-commerce 온라인 쇼핑몰 웹 구축  (21.12.15~12.31)
 프론트: Angular  
 백엔드: 자바, Spring Boot ( using REST APIs and MySQL )  
 개발툴: IntelliJ, VScode, Maven, npm, git
+
+### backend link: 
+https://github.com/triptocode/e-commerce-portfolio-backend
