@@ -23,5 +23,5 @@ E-commerce 온라인 쇼핑몰 웹 구축  (21.12.15~12.31)
 
 ### 사용된 기술 ( 언어, 프레임워크, 툴)  
 프론트: Angular  
-백엔드: 자바, Spring Boot ( using REST APIs and MySQL )
+백엔드: 자바, Spring Boot ( using REST APIs and MySQL )  
 개발툴: IntelliJ, VScode, Maven, npm, git
