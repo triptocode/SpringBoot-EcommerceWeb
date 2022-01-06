@@ -16,4 +16,12 @@ JAVA, HTML5, CSS, JAVASCRIPT, 오라클DB, 그리고 Springframework를 활용�
  2016. 07 (국가공인)PC정비사       2급 
 
 
+# About Project
+E-commerce 온라인 쇼핑몰 웹 구축  (21.12.15~12.31)
+이커머스 풀스택 개인 프로젝트 
+취지: 자기계발, 이커머스 웹에 익숙해지기, 풀스택 학습하며 전체 흐름 및 구조 이해해보기
 
+### 사용된 기술 ( 언어, 프레임워크, 툴)  
+프론트: Angular  
+백엔드: 자바, Spring Boot ( using REST APIs and MySQL )
+개발툴: IntelliJ, VScode, Maven, npm, git
