@@ -39,10 +39,11 @@ https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7
   
   
    Add to cart 버튼클릭시 addToCart 메서드 실행하는 button 기능 구현  
-   ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/200991d7-f250-4952-98ac-76a1922cfb58/Untitled.png)  
+   ![image](https://user-images.githubusercontent.com/84559988/148550116-1f06942c-f1c1-4c7b-9b96-5aa09dc92db4.png)
+
    handler 메서드 클릭시, ProductListComponent가 업데이트 되도록 한다.   
-   ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28ed69f3-2123-4bfc-9349-7f3827620ab0/Untitled.png)  
-   ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/157544d2-9868-4d15-9355-55b90a1a9126/Untitled.png)  
+   ![image](https://user-images.githubusercontent.com/84559988/148550170-f3a6d830-fef0-466a-bc8a-afdc6dec6641.png)
+
   
 ![2 쇼핑카트담긴 상품 증감삭제](https://user-images.githubusercontent.com/84559988/148549226-5226eae7-c9c9-4c44-98cf-7d23324d7373.gif)  
 
