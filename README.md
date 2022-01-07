@@ -60,3 +60,20 @@ https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7
 ![image](https://user-images.githubusercontent.com/84559988/148550553-f0410bd9-30d9-4768-add7-96282d5113a0.png)
 
 
+## 상품 검색 기능구현 - pring Data REST 와 Spring Data JPA는 쿼리 methods findBy 활용한 백엔드 코딩
+
+![image](https://user-images.githubusercontent.com/84559988/148551273-a46882c1-cfac-4517-a403-639788d67dbf.png)
+
+
+**/findByNameContaining?name=키워드  (입력하면 관련 제품이 검색되어 출력된다. )**
+
+아래 백엔드코드 구현 : url에 findby키워드로 Beginner. Python 등을 입력하면 키워드와 관련된 제품 결과 출력
+예:  /findByNameContaining?name=Beginner
+
+![image](https://user-images.githubusercontent.com/84559988/148551539-5b92a3c0-e0ba-4eae-b1e3-05c2948c82ac.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99407519-750a-4edb-a2c3-a5cd1cf38e40/Untitled.png)
+
+
+
+
