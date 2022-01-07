@@ -48,11 +48,7 @@ https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7
    handler 메서드 클릭시, ProductListComponent가 업데이트 되도록 한다.   
    ![image](https://user-images.githubusercontent.com/84559988/148550170-f3a6d830-fef0-466a-bc8a-afdc6dec6641.png)
 
-  
-
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3764777-54ab-420f-bf4b-afa576c3063b/Untitled.png)
-
+ 
 
 ![image](https://user-images.githubusercontent.com/84559988/148550497-54755c59-fb84-4cba-8398-dcb21c63babd.png)  
 ![image](https://user-images.githubusercontent.com/84559988/148550553-f0410bd9-30d9-4768-add7-96282d5113a0.png)
