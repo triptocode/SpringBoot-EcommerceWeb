@@ -34,7 +34,7 @@ https://www.notion.so/route-findBy-d1f0ea920187437d9db5d526ea66527c
 4. 쇼핑카트 기능 구현 1 :  상품추가버튼 클릭시 상단의 쇼핑카트에 가격, 수량 반영되도록 한다. 
 https://www.notion.so/1-f8c8df9e0ad14c13bac5238ac14c75d7
 5. 쇼핑카트 기능 구현 2 :  쇼핑카트에 담긴 상품의 수량 증감, 삭제 기능구현 
-https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7
+https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7  
 
 ![2 쇼핑카트담긴 상품 증감삭제](https://user-images.githubusercontent.com/84559988/148549226-5226eae7-c9c9-4c44-98cf-7d23324d7373.gif)
 
