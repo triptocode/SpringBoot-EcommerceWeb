@@ -14,7 +14,7 @@
 # About Project
 ### E-commerce 온라인 쇼핑몰 웹 구축  (21.12.15~12.31)  - 개인 프로젝트   
 ### 사용된 기술 ( 언어, 프레임워크, 툴)  
-프론트: Angular, <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow">
+프론트: Angular, <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow">
 백엔드: 자바, Spring Boot ( using REST APIs and MySQL )  
 개발툴: IntelliJ, VScode, Maven, npm, git
 
