@@ -24,7 +24,7 @@ https://github.com/triptocode/e-commerce-portfolio-backend
 https://github.com/triptocode/e-commerce-portfolio-front.git
 
 
-### 중요기능 ( 각 기능 구현 과정 및 자세한 설명은 각 링크 참조 ): 
+### 중요기능 상세설명 링크 ( 각 기능 구현 과정 및 자세한 설명은 각 링크 참조 ): 
 1. 메뉴카테고리 :  하드코딩없이 Rest API 활용, category id로 동적 호출하여 표현  
 https://www.notion.so/id-Rest-API-cadbf5b23b1647d2b834c9f634105898  
 2. 상품 메인화면구현 : product-box로 상품정보를 묶고, 앵귤러반복문(ngFor)활용해 상품 모두출력
@@ -37,6 +37,9 @@ https://www.notion.so/1-f8c8df9e0ad14c13bac5238ac14c75d7
 5. 쇼핑카트 기능 구현 2 :  쇼핑카트에 담긴 상품의 수량 증감, 삭제 기능구현   
 https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7    
 
+
+
+# 주용기능 몇가지 요약화면 
 
 ## 쇼핑카트 
   
