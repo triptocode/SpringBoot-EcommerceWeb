@@ -73,7 +73,8 @@ https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7
 
 ![image](https://user-images.githubusercontent.com/84559988/148551539-5b92a3c0-e0ba-4eae-b1e3-05c2948c82ac.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99407519-750a-4edb-a2c3-a5cd1cf38e40/Untitled.png)
+![image](https://user-images.githubusercontent.com/84559988/148551893-165bc905-83fb-4f49-a96c-e606754bfdbd.png)
+
 
 
 
