@@ -38,7 +38,7 @@ https://www.notion.so/1-f8c8df9e0ad14c13bac5238ac14c75d7
 https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7    
 
 
-## 쇼핑카트
+## 쇼핑카트 
   
   ![1상품추가버튼클릭시 쇼핑카트변화](https://user-images.githubusercontent.com/84559988/148550331-89292e34-9670-4114-883d-00cd06d986db.gif)
   
@@ -52,7 +52,7 @@ https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7
    ![image](https://user-images.githubusercontent.com/84559988/148550170-f3a6d830-fef0-466a-bc8a-afdc6dec6641.png)
 
  
-## 카테고리 메뉴 
+## 카테고리 메뉴  - rest api, 카테고리 id 로 동적 구현 
 ![image](https://user-images.githubusercontent.com/84559988/148550497-54755c59-fb84-4cba-8398-dcb21c63babd.png)  
 ![image](https://user-images.githubusercontent.com/84559988/148550553-f0410bd9-30d9-4768-add7-96282d5113a0.png)
 
