@@ -12,7 +12,7 @@
 2016. 07 (국가공인)PC정비사       2급 
 
 # About Project
-### E-commerce 온라인 쇼핑몰 웹 구축  (21.12.15~12.31)  - 개인 프로젝트   
+### E-commerce 온라인 쇼핑몰 웹 구축  (21.12.15~12.31)  - 개인 프로젝트  
 ### 사용된 기술 ( 언어, 프레임워크, 툴)  
 프론트: <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=yellow">,, <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow">,<img src="https://img.shields.io/badge/css-006600?style=for-the-badge&logo=css&logoColor=black">, <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=black">    
 백엔드: <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=black">, <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black"> ( using <img src="https://img.shields.io/badge/RESTapis-CC2927?style=for-the-badge&logo=RESTapis&logoColor=red"> and <img src="https://img.shields.io/badge/MySQL-CC2927?style=for-the-badge&logo=MySQL&logoColor=red"> )  
