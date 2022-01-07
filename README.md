@@ -12,6 +12,11 @@
 ### IT 자격증 취득
 2017. 01 (국가공인)네트워크관리사 2급
 2016. 07 (국가공인)PC정비사       2급 
+## 사용해본 IT skill  
+JAVA, HTML5, CSS, JS  
+DB: Oracle, Mysql  
+프레임워크: SpringBoot, Spring, Angular  
+툴: Eclipse, STS, IntelliJ, VScode, Maven, npm, git  
 
 # About Project
 ### E-commerce 온라인 쇼핑몰 웹 구축  (21.12.15~12.31)  
