@@ -25,16 +25,16 @@ https://github.com/triptocode/e-commerce-portfolio-front.git
 
 
 ### 중요기능: 
-1. 메뉴카테고리 :  하드코딩없이 Rest API 활용, category id로 동적 호출하여 표현
-https://www.notion.so/id-Rest-API-cadbf5b23b1647d2b834c9f634105898
-2. 상품 메인화면구현 :  product-box로 상품정보를 묶고, 앵귤러반복문(ngFor)을 활용하여 제품들 모두 출력 /  카테고리와 해당 상품 route 설정
-https://www.notion.so/product-box-ngFor-route-a128dabda6174064962f7e404da7ba70
-3. 상품 검색창 구현: Spring Data REST 와 Spring Data JPA에서 제공하는 쿼리 메서드 findBy 활용 
-https://www.notion.so/route-findBy-d1f0ea920187437d9db5d526ea66527c
-4. 쇼핑카트 기능 구현 1 :  상품추가버튼 클릭시 상단의 쇼핑카트에 가격, 수량 반영되도록 한다. 
-https://www.notion.so/1-f8c8df9e0ad14c13bac5238ac14c75d7
-5. 쇼핑카트 기능 구현 2 :  쇼핑카트에 담긴 상품의 수량 증감, 삭제 기능구현 
-https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7  
-
-![2 쇼핑카트담긴 상품 증감삭제](https://user-images.githubusercontent.com/84559988/148549226-5226eae7-c9c9-4c44-98cf-7d23324d7373.gif)
+1. 메뉴카테고리 :  하드코딩없이 Rest API 활용, category id로 동적 호출하여 표현  
+https://www.notion.so/id-Rest-API-cadbf5b23b1647d2b834c9f634105898  
+2. 상품 메인화면구현 :  product-box로 상품정보를 묶고, 앵귤러반복문(ngFor)을 활용하여 제품들 모두 출력 /  카테고리와 해당 상품 route 설정  
+https://www.notion.so/product-box-ngFor-route-a128dabda6174064962f7e404da7ba70  
+3. 상품 검색창 구현: Spring Data REST 와 Spring Data JPA에서 제공하는 쿼리 메서드 findBy 활용   
+https://www.notion.so/route-findBy-d1f0ea920187437d9db5d526ea66527c  
+4. 쇼핑카트 기능 구현 1 :  상품추가버튼 클릭시 상단의 쇼핑카트에 가격, 수량 반영되도록 한다.   
+https://www.notion.so/1-f8c8df9e0ad14c13bac5238ac14c75d7  
+5. 쇼핑카트 기능 구현 2 :  쇼핑카트에 담긴 상품의 수량 증감, 삭제 기능구현   
+https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7    
+  
+![2 쇼핑카트담긴 상품 증감삭제](https://user-images.githubusercontent.com/84559988/148549226-5226eae7-c9c9-4c44-98cf-7d23324d7373.gif)  
 
