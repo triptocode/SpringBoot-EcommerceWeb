@@ -37,5 +37,14 @@ https://www.notion.so/1-f8c8df9e0ad14c13bac5238ac14c75d7
 5. 쇼핑카트 기능 구현 2 :  쇼핑카트에 담긴 상품의 수량 증감, 삭제 기능구현   
 https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7    
   
+  
+   Add to cart 버튼클릭시 addToCart 메서드 실행하는 button 기능 구현
+   ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/200991d7-f250-4952-98ac-76a1922cfb58/Untitled.png)
+   handler 메서드 클릭시, ProductListComponent가 업데이트 되도록 한다. 
+   ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28ed69f3-2123-4bfc-9349-7f3827620ab0/Untitled.png)
+   ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/157544d2-9868-4d15-9355-55b90a1a9126/Untitled.png)
+  
 ![2 쇼핑카트담긴 상품 증감삭제](https://user-images.githubusercontent.com/84559988/148549226-5226eae7-c9c9-4c44-98cf-7d23324d7373.gif)  
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3764777-54ab-420f-bf4b-afa576c3063b/Untitled.png)
 
