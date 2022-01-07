@@ -79,4 +79,11 @@ https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7
 
 
 
+이커머스 웹 프로젝트 각 기능별 화면, 코드 설명 정리목록 
+https://utopian-dresser-30e.notion.site/E-Commerce-Website-Angular-Java-Spring-Boot-70ac57aa349b4801b59ac3480b0f5a25
+
+
+
+
+
 
