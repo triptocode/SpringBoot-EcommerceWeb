@@ -60,7 +60,8 @@ https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7
 ![image](https://user-images.githubusercontent.com/84559988/148550553-f0410bd9-30d9-4768-add7-96282d5113a0.png)
 
 
-## 상품 검색 기능구현 - pring Data REST 와 Spring Data JPA는 쿼리 methods findBy 활용한 백엔드 코딩
+## 상품 검색 기능구현   
+- pring Data REST 와 Spring Data JPA는 쿼리 methods findBy 활용한 백엔드 코딩
 
 ![image](https://user-images.githubusercontent.com/84559988/148551273-a46882c1-cfac-4517-a403-639788d67dbf.png)
 
