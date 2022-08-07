@@ -34,17 +34,16 @@ https://github.com/triptocode/e-commerce-portfolio-front.git
 
 ### 중요기능 상세설명 링크 ( 각 기능 구현 과정 및 자세한 설명은 각 링크 참조 ): 
 1. 메뉴카테고리 :  하드코딩없이 Rest API 활용, category id로 동적 호출하여 표현  
-https://www.notion.so/id-Rest-API-cadbf5b23b1647d2b834c9f634105898  
+https://www.notion.so/id-Rest-API-5acc33e877cf49629527d1347a8b6686
 2. 상품 메인화면구현 : product-box로 상품정보를 묶고, 앵귤러반복문(ngFor)활용해 상품 모두출력
    각 카테고리에 해당하는 상품 route설정  
-https://www.notion.so/product-box-ngFor-route-a128dabda6174064962f7e404da7ba70  
+https://www.notion.so/product-box-ngFor-route-0379d7e88bfc42e5914b3e2da29b8739
 3. 상품 검색창 구현: Spring Data REST 와 Spring Data JPA에서 제공하는 쿼리 메서드 findBy 활용   
-https://www.notion.so/route-findBy-d1f0ea920187437d9db5d526ea66527c  
+https://www.notion.so/findBy-9e459a69166d4a83abd16a3010853fdf
 4. 쇼핑카트 기능 구현 1 :  상품추가버튼 클릭시 상단의 쇼핑카트에 가격, 수량 반영되도록 한다.   
-https://www.notion.so/1-f8c8df9e0ad14c13bac5238ac14c75d7  
+https://www.notion.so/1-562a7da393de4d11b52f75d662799712
 5. 쇼핑카트 기능 구현 2 :  쇼핑카트에 담긴 상품의 수량 증감, 삭제 기능구현   
-https://www.notion.so/2-37ebe01d4ee64a099d0512affe5a95b7    
-
+https://www.notion.so/2-5012efa38d894a5fab872d58b6b06ad8
 
 
 # 주용기능 몇가지 요약화면 
