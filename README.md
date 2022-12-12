@@ -1,25 +1,3 @@
-# About Me   
- 시작단계이지만 꾸준한 노력을 하는 성격, 지속적으로 성장하고자 하는 개발자
- 
- 2006. 03 ~ 2015. 02 한국외국어대학교(글로벌)  졸업 
-                      전공 영어학과, 부전공 스페인어과
- 2017. 11 ~ 2019. 05 유베이스 에어비앤비TNS (trust & safey)팀 근무<br/> 
-                 : 글로벌 여행플랫폼 AIRBNB의 전세계 유저 및 플랫폼 안전관련 이슈 및<br/>100프로 영어환경 업무(팀원50프로이상 외국인, 회의,가이드, workflow 모두 영어)<br/>      2020.07 ~ 2020.11 : 투씨에스지 보안회사 DCS (Digital Contents Security) 보안 솔루션 개발팀 - 자사 솔루션 코드 개선, 엔지니어링, 영어보조 
-           2022.06 ~ 현재: 새롬씨앤씨 시스템사업부 - 포스코장가항 프로젝트 BI팀 - DW관련 화면개발 (활용언어 및 툴: JS, MATRIX, AUD, 오라클DB - 툴ORANGE)
-                 
-### IT 교육 수료증 취득  
-#### 2020. 04 ~ 2020. 09 디바이스&웹 콘텐츠 융합 디지털 컨버전스 양성 - KH정보교육원 당산지원  
- JAVA, HTML5, CSS, JAVASCRIPT, 오라클DB,  Springframework활용 웹구축, 아두이노 코딩 (C#)                      
-####  2016. 05 ~ 2017. 03 네트워크운영및ICT보안전문가양성 디앤디직업전문학교                                      
- 네트워크 유지보수/ 운용관리/ 관리통제/ 물리적 기술적 보안구축/ Linux리눅스 / pc 구조학습
-### IT 자격증 취득
-2017. 01 (국가공인)네트워크관리사 2급
-2016. 07 (국가공인)PC정비사       2급 
-### IT skill  
-JAVA, HTML5, CSS, JS  
-DB: Oracle, Mysql  
-프레임워크: SpringBoot, Spring, Angular  
-툴: Eclipse, STS, IntelliJ, VScode, Maven, npm, git  
 
 # About Project
 ### E-commerce 온라인 쇼핑몰 웹 구축  (21.12.15~12.31)  
