@@ -11,6 +11,8 @@
 https://github.com/triptocode/e-commerce-portfolio-backend
 ### frontend link: 
 https://github.com/triptocode/e-commerce-portfolio-front.git
+### 블로그 - 상세기능 및 코드 설명
+https://utopian-dresser-30e.notion.site/E-Commerce-Website-Angular-Java-Spring-Boot-09b4f47cb59e4a51b1e76aef782e6d5a
 
 
 ### 중요기능 상세설명 링크 ( 각 기능 구현 과정 및 자세한 설명은 각 링크 참조 ): 
@@ -66,8 +68,8 @@ https://www.notion.so/2-5012efa38d894a5fab872d58b6b06ad8
 
 
 
-이커머스 웹 프로젝트 각 기능별 화면, 코드 설명 정리목록   
-https://www.notion.so/E-Commerce-Website-Angular-Java-Spring-Boot-09b4f47cb59e4a51b1e76aef782e6d5a
+블로그 - 이커머스 웹 프로젝트 각 기능별 화면, 코드 설명 정리목록   
+[https://www.notion.so/E-Commerce-Website-Angular-Java-Spring-Boot-09b4f47cb59e4a51b1e76aef782e6d5a](https://utopian-dresser-30e.notion.site/E-Commerce-Website-Angular-Java-Spring-Boot-09b4f47cb59e4a51b1e76aef782e6d5a)
   
 
 
